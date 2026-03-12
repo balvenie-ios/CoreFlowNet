@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "2.0.3"
-let checksum = ""
+let version = "2.0.4"
+let checksum = "72334c745b27bc2631b2a799f554312c63e9802f37b8d6ea9b4248e7a92ae866"
 
 let package = Package(
     name: "CoreFlowNetSDK",
